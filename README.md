@@ -42,7 +42,7 @@ Grouping constructs are used to define the scope and precedence of the operators
 
 ### Bracket Expressions
 
-Bracket expressions are used to define a character class, a set of characters to match. `[abc]`, in this example, matches any character from the set of characters {'a', 'b', 'c'}.
+Bracket expressions are used to define a character class, a set of characters to match. `[a-z]`, in this example, matches any character from the set of characters {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', y', 'z'}.
 
 ### Character Classes
 
@@ -54,7 +54,7 @@ The OR operator is represented by `|`. It is used to match the pattern before OR
 
 ### Flags
 
-Flags are used to control the behavior of the regex. The `g` flag is used for global search and `i` is used for case-insensitive search. 
+Flags are used to control the behavior of the regex. The `/g` flag is used for global search and `/i` is used for case-insensitive search. 
 
 ### Character Escapes
 
