@@ -6,8 +6,8 @@ This document is a brief dive into what a regular expression (regex) is, and how
 
 A regular expression, or regex, is a sequence of characters that forms a search pattern. Regex is used for string pattern matching and manipulation. An example of a regex used in JavaScript would look something like
 
-    const regexStringSensitive = /[a-z]/g;
-        const result = 'HELLO'.match(regexStringSensitive);
+    const regexCaseSensitive = /[a-z]/g;
+        const result = 'HELLO'.match(regexCaseSensitive);
             if (result) {
                 console.log('True');
             } else {
