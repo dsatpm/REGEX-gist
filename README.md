@@ -13,6 +13,7 @@ A regular expression, or regex, is a sequence of characters that forms a search 
             } else {
                 console.log('False')
     }.
+This code snippet is checking to see if the string 'HELLO' contains any lowercase letters. If it does, it will log `True`, otherwise it will log `False`.
 
 ## Table of Contents
 
