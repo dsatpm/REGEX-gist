@@ -53,4 +53,4 @@ Character escapes are used to allow for special characters to be used as search 
 
 ## Author
 
-Regex: A brief definition was authored by [dsatpm](https://www.github.com/dsatpm).
+Regex: A brief definition was authored by [dsatpm](https://www.github.com/dsatpm). I (dsatpm) have been thoroughly enjoying 'Ghost of Tsushima' for PS5, learning classic death metal tracks on guitar (Nile, Cannibal Corpse, Deicide), and coding, coding, coding!!
